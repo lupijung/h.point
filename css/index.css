@@ -1,0 +1,7 @@
+/* alt + shift + F 한줄로 정리됨 */
+/* F8 여러줄로 정리됨 */
+
+* { margin: 0; padding: 0; } 
+ ul,li { margin: 0; padding: 0; list-style: none; } 
+ a { text-decoration: none; display: block; background-color: #000; color: #FFF; font-size: 20px; width: 150px; height: 50px; line-height: 50px; text-align: center; border-radius: 50px; margin: 10px; } 
+ a:hover { background-color: #666; } 
